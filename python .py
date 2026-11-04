@@ -107,3 +107,4 @@ It runs on both POSIX and Windows.
 
 
 started learning git hub
+This error means GitHub is not allowing you to push code because the GitHub account currently authenticated on your computer does not have permission to access the repositor
